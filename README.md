@@ -98,7 +98,18 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+### output video and screen shots of pick and place :
+## ACTIONS OF ROBOT:
+![output](j4.jpeg)
+![output](j3.jpeg)
+![output](j2.jpeg)
+
+## ASSIGNING MOVEMENT:
+![output](p1.jpeg)
+![output](p2.jpeg)
+![output](p3.jpeg)
+![output](p4.jpeg)
+![output](p5.jpeg)
 
 
 
@@ -107,6 +118,7 @@ and click on the connect icon
 
 
 ### Results: 
+Thus the  Experiment To pick and place a regular shape using two finger gripper on the conveyor belt  is successfully completed!..
 
 
 
